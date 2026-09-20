@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Ishaan",
   middleName: "",
   lastName: "Gupta",
-  message: "ML Engineer · Deep Learning Researcher · PhD Candidate at UCSD",
+  message: "ML Engineer · Deep Learning Researcher · Computer Science PhD at UCSD",
   icons: [
     {
       image: "fa-github",
