@@ -91,13 +91,9 @@ code {
   margin-top: 0px;
 }
 
-.min-vh-50 {
-  min-height: 50vh;
-}
-
 .hero-name {
-  font-size: clamp(3rem, 12vw, 9rem);
-  font-weight: 700;
+  font-size: clamp(3rem, 10vw, 7rem);
+  font-weight: $display-font-weight;
   line-height: 1.05;
 }
 
