@@ -91,6 +91,12 @@ code {
   margin-top: 0px;
 }
 
+.hero-name {
+  font-size: clamp(3rem, 10vw, 7rem);
+  font-weight: $display-font-weight;
+  line-height: 1.05;
+}
+
 .typist {
   min-height: 6rem;
   @media (min-width: 360px) {
